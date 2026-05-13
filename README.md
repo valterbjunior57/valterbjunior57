@@ -11,14 +11,5 @@ Acesse o blog "Ser blogueiro" nele você vai encontrar poesias, textos, crônica
 *
 ---
 
-<table>
-  <tr>
-    <td><strong>Acessos ao perfil:</strong></td>
-    <td>
-      ---
-<p align="left">
-  <img src="komarev.com" alt="Contador de Visitas" />
-</p>
-    </td>
-  </tr>
-</table>
+Acompanhe os acessos ao perfil:
+<img src="yhype.me" alt="Contador de Visitas" />
