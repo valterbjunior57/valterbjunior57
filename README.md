@@ -15,7 +15,7 @@ Acesse o blog "Ser blogueiro" nele você vai encontrar poesias, textos, crônica
   <tr>
     <td><strong>Acessos ao perfil:</strong></td>
     <td>
-      <img src="shields.io" alt="Contador" />
+      [![Visitas](https://shields.io)](https://glitch.me)
     </td>
   </tr>
 </table>
