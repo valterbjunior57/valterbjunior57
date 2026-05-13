@@ -4,8 +4,8 @@ Acesse o blog "Ser blogueiro" nele você vai encontrar poesias, textos, crônica
 
 ### 🌐 Meus Links:
 * 📝 **Blog:** [Ser Blogueiro](https://valterbjuniorserblogueiro.blogspot.com/)
-* 🐦 **Twitter / X:** [@valterbjunior57](https://x.com)
-* 📌 **Pinterest:** [@valterbitencourtjunior](https://pinterest.com)
-* 📸 **Instagram:** [@valterbjunior57](https://instagram.com)
-* 👥 **Facebook:** [valterbitencourtjuniororesgate](https://facebook.com)
+* 🐦 **Twitter / X:** [@valterbjunior57](https://x.com/valterbjunior57)
+* 📌 **Pinterest:** [@valterbitencourtjunior](https://br.pinterest.com/valterbitencourtjunior/)
+* 📸 **Instagram:** [@valterbjunior57](https://www.instagram.com/juniorvalterbitencourt)
+* 👥 **Facebook:** [@valterbitencourtjuniororesgate](https://www.facebook.com/valterbitencourtjuniororesgate/)
 * 
