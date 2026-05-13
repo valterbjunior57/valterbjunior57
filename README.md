@@ -8,8 +8,7 @@ Acesse o blog "Ser blogueiro" nele você vai encontrar poesias, textos, crônica
 * 📌 **Pinterest:** [@valterbitencourtjunior](https://br.pinterest.com/valterbitencourtjunior/)
 * 📸 **Instagram:** [@valterbjunior57](https://www.instagram.com/juniorvalterbitencourt)
 * 👥 **Facebook:** [Valter Bitencourt Júnior](https://www.facebook.com/valterbitencourtjuniororesgate/)
-*
+
 ---
 
-Acompanhe os acessos ao perfil:
-<img src="yhype.me" alt="Contador de Visitas" />
+📈 [Clique aqui para acompanhar as estatísticas de acesso e visitas deste perfil](https://countapi.xyz)
