@@ -15,7 +15,10 @@ Acesse o blog "Ser blogueiro" nele você vai encontrar poesias, textos, crônica
   <tr>
     <td><strong>Acessos ao perfil:</strong></td>
     <td>
-      [![Visitas](https://shields.io)](https://glitch.me)
+      ---
+<p align="left">
+  <img src="komarev.com" alt="Contador de Visitas" />
+</p>
     </td>
   </tr>
 </table>
