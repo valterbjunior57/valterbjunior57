@@ -9,5 +9,5 @@ Acesse o blog "Ser blogueiro" nele você vai encontrar poesias, textos, crônica
 * 📸 **Instagram:** [@valterbjunior57](https://www.instagram.com/juniorvalterbitencourt)
 * 👥 **Facebook:** [Valter Bitencourt Júnior](https://www.facebook.com/valterbitencourtjuniororesgate/)
 *
----
-Acompanhe no perfil: <img !src="glitch.me" alt="Visitas"/>
+
+[![Visitas](https://shields.io)](https://glitch.me)
