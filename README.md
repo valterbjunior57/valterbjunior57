@@ -11,4 +11,5 @@ Acesse o blog "Ser blogueiro" nele você vai encontrar poesias, textos, crônica
 
 ---
 Acompanhe no perfil: ![Contador de Visitas](https://komarev.com)
+
   
