@@ -10,9 +10,4 @@ Acesse o blog "Ser blogueiro" nele você vai encontrar poesias, textos, crônica
 * 👥 **Facebook:** [Valter Bitencourt Júnior](https://www.facebook.com/valterbitencourtjuniororesgate/)
 *
 ---
-Acompanhe no perfil: 
-<img src="glitch.me" alt="Visitas" />
-
-
-
-  
+Acompanhe no perfil: <img src="glitch.me" alt="Visitas" /> 
