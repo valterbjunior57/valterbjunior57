@@ -11,4 +11,4 @@ Acesse o blog "Ser blogueiro" nele você vai encontrar poesias, textos, crônica
 
 ---
 
-📈 [Clique aqui para acompanhar as estatísticas de acesso e visitas deste perfil](https://scout9.com)
+![Visitas](https://scount9.com)
